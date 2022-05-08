@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there, I'm Florian "0ri" Neveu !</h3>
+<h3 align="center">👋 Hi there, I'm Florian "Ori" Neveu !</h3>
 
 <p align="center">
   <a href="https://fnev.eu">Website</a> ⊡
