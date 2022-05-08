@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://fnev.eu">Website</a> ⊡
   <a href="https://linkedin.com/in/fnev-eu">LinkedIn</a> ⊡
-  <a href="https://twitter.com/fnev_eu">Twitter</a>
+  <a href="https://twitter.com/fnev_eu">Twitter</a> ⊡
+  <a href="https://www.instagram.com/fnev.eu">Instagram</a>
 </p>
 
 <hr>
