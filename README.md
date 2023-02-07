@@ -9,8 +9,6 @@
 
 <hr>
 
-<img align="right" width="190px" src="https://github.com/fnev-eu/fnev-eu/blob/main/it-s-not-me-i-have-a-beard.gif">
-
 <ul>
     <li>👨‍💻 I’m currently working as <strong>senior back-end developer</strong> at <a href="https://www.adveris.fr">Adveris</a> ;</li>
     <li>🔧 I’m mainly develop with PHP and the pretty <strong>Symfony framework</strong> ;</li>
@@ -20,4 +18,6 @@
     <li>😄 Pronouns: He/him.</li>
 </ul>
 
-![Recently played on my Spotify](https://spotify-recently-played-readme-4ln7.vercel.app/api?user=fnev--dot--eu&unique=true&count=10)
+<center>
+    ![Recently played on my Spotify](https://spotify-recently-played-readme-4ln7.vercel.app/api?user=fnev--dot--eu&unique=true&count=10)
+</center>
