@@ -20,4 +20,4 @@
     <li>😄 Pronouns: He/him.</li>
 </ul>
 
-![Recently played on mySpotify](https://spotify-recently-played-readme-4ln7.vercel.app/api?user=fnev--dot--eu&unique=true&count=10)
+![Recently played on my Spotify](https://spotify-recently-played-readme-4ln7.vercel.app/api?user=fnev--dot--eu&unique=true&count=10)
