@@ -19,7 +19,5 @@
 </ul>
 
 <p align="center">
-
-![Recently played on my Spotify](https://spotify-recently-played-readme-4ln7.vercel.app/api?user=fnev--dot--eu&unique=true&count=10)
-
+    <img src="https://spotify-recently-played-readme-4ln7.vercel.app/api?user=fnev--dot--eu&unique=true&count=10" alt="Recently played on my Spotify">
 </p>
