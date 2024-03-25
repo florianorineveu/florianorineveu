@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://fnev.eu">Website</a> ⊡
-  <a href="https://linkedin.com/in/fnev-eu">LinkedIn</a> ⊡
-  <a href="https://twitter.com/fnev_eu">Twitter</a> ⊡
-  <a href="https://www.instagram.com/fnev.eu">Instagram</a>
+  <a href="https://linkedin.com/in/florianorineveu">LinkedIn</a> ⊡
+  <a href="https://twitter.com/florianorineveu">Twitter</a> ⊡
+  <a href="https://www.instagram.com/florianorineveu">Instagram</a>
 </p>
 
 <hr>
@@ -16,7 +16,7 @@
     <li>🔧 I’m mainly develop with PHP and the pretty <strong>Symfony framework</strong> ;</li>
     <li>🌱 I love playing with various <strong>APIs</strong> or make some useless shell scripts ;</li>
     <li>🍑 I'm often ready to technically support projects in the adult industry (in the past: <a href="https://www.letagparfait.com">Le Tag Parfait</a>, <a href="https://carrerosefilms.com">Carré Rose Films</a>...).
-    <li>📫 Feel free to contact me on Twitter: <a href="https://twitter.com/fnev_eu">@fnev_eu</a>.</li>
+    <li>📫 Feel free to contact me on Twitter: <a href="https://twitter.com/florianorineveu">@FlorianOriNeveu</a>.</li>
     <li>😄 Pronouns: He/him.</li>
 </ul>
 
