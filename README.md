@@ -9,8 +9,6 @@
 
 <hr>
 
-<img src="https://spotify-recently-played-readme-4ln7.vercel.app/api?user=fnev--dot--eu&unique=true&count=5%width=300" alt="Recently played on my Spotify" align="right">
-
 <ul>
     <li>👨‍💻 I’m currently working as <strong>senior back-end developer</strong> at <a href="https://www.adveris.fr">Adveris</a> ;</li>
     <li>🔧 I’m mainly develop with PHP and the pretty <strong>Symfony framework</strong> ;</li>
